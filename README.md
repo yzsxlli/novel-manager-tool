@@ -6,7 +6,7 @@
 
 
 
-**!\[主页截图](https://raw.githubusercontent.com/yzsxlli/novel-manager-tool/main/%E4%B8%BB%E9%A1%B5.png)**
+!\[主页截图](https://raw.githubusercontent.com/yzsxlli/novel-manager-tool/main/%E4%B8%BB%E9%A1%B5.png)
 
 
 

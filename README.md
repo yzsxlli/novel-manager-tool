@@ -1,7 +1,7 @@
 **小说文件批量管理工具**
 
 **一个帮你整理乱七八糟小说文件夹的小工具**
-
+https://github.com/yzsxlli/novel-manager-tool/blob/main/%E4%B8%BB%E9%A1%B5.png
 
 
 **📖 简介**
